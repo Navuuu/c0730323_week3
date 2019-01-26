@@ -10,21 +10,22 @@ namespace c0730323
     {
         static void Main(string[] args)
         {
-           
+
 
 
         }
         class Countryside
-        { 
+        {
 
-    }
-    class village
-    {
-        village Previousvillage;
-        village Nextvillage;
-        string VillageName;
-        bool isAstrildeHere = false;
-    
-        public village() { }
+        }
+        class village
+        {
+            village Previousvillage;
+            village Nextvillage;
+            string VillageName;
+            bool isAstrildeHere = false;
+
+            public village() { }
+        }
     }
 }
