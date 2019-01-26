@@ -14,11 +14,12 @@ namespace c0730323
 
 
         }
+        class Countryside
 
     }
-    class Node
+    class village
     {
-        Node PreviousNode;
-        Node NextNode;
+        village PreviousNode;
+        village Nextvillage;
     }
 }
